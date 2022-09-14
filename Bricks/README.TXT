@@ -6,9 +6,9 @@ alles, was er/sie wissen muss. Üblicherweise sollte der Kommentar
 zumindest die folgenden Angaben umfassen:
 ------------------------------------------------------------------------
 
-PROJEKTBEZEICHNUNG:
-PROJEKTZWECK:
-VERSION oder DATUM:
-WIE IST DAS PROJEKT ZU STARTEN:
-AUTOR(EN):
-BENUTZERHINWEISE:
+PROJEKTBEZEICHNUNG: Bricks
+PROJEKTZWECK: Bricks halt ne
+VERSION oder DATUM: Heute
+WIE IST DAS PROJEKT ZU STARTEN: nar nicht
+AUTOR(EN): ZimZom & Kecksie
+BENUTZERHINWEISE: ne einfach ne
