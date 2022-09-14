@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ball
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Ball.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=pPosX\ pPosY
+comment1.target=Ball(int,\ int)
+comment2.params=pPlatform
+comment2.target=void\ start(sas.Shapes)
+numComments=3
